@@ -1,2 +1,2 @@
 # react-ts-vscode-boilerpalte
-Boilerplate project for fully auto-linted and formatted React/Typescript using VSCode
+Boilerplate project for a Create React App generated app using TypeScript with ESLint and Prettier integration.
